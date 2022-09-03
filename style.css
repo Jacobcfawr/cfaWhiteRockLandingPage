@@ -10,7 +10,7 @@
 body {
   height: 100vh;
   background-image: url(./images/cfaWhiteRockPatio.jpg);
-  background-size: cover;
+  background-size: auto;
   color: white;
   backdrop-filter: blur(11px);  
 }
